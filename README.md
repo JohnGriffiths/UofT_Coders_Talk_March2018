@@ -18,8 +18,11 @@ Materials for my talk to University of Toronto Coders on python- and github-base
 ***Demo Materials***
 
 The code demonstrations in the video can be found in the [misc](https://github.com/JohnGriffiths/UofT_Coders_Talk_March2018/tree/master/misc) folder. The primary two notebooks are
-- [workdocs](cell tag filtering and nbconvert](https://github.com/JohnGriffiths/UofT_Coders_Talk_March2018/blob/master/misc/cell_tag_filtering__master_nb.ipynb)
-- [cloudfiles](github-hosted pelican static html websites, and replacing binary objects in notebooks with urls to aws s3 buckets](https://github.com/JohnGriffiths/UofT_Coders_Talk_March2018/blob/master/misc/cloudfiles_demo__master_nb.ipynb)
+- [workdocs - cell tag filtering and nbconvert](https://github.com/JohnGriffiths/UofT_Coders_Talk_March2018/blob/master/misc/cell_tag_filtering__master_nb.ipynb)
+- [cloudfiles - github-hosted pelican static html websites, and replacing binary objects in notebooks with urls to aws s3 buckets](https://github.com/JohnGriffiths/UofT_Coders_Talk_March2018/blob/master/misc/cloudfiles_demo__master_nb.ipynb)
+
+
+
 
 
 ***Summary***
@@ -33,8 +36,8 @@ The second major component of the scientific workflow discussed is how to turn t
 For more info, check out some LabNotebook entries (c.f. 'OpenAccess' tag), e.g. [about the notebook](https://johngriffiths.github.io/LabNotebook/about-the-notebook.html), [about workdocs-cloudfiles](https://johngriffiths.github.io/LabNotebook/about-workdocs-cloudfiles.html), and some notes on [modelling brain stimulation](https://johngriffiths.github.io/LabNotebook/replicating-spiegler2016.html) and [macaque brain visualization](https://johngriffiths.github.io/LabNotebook/macaque-brain-conmat-viz.html).
 
 
-<div>
-<div>
+<br>
+<br>
 <div align="right">JG March 2018</div>
 
 
