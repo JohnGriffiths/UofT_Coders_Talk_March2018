@@ -4,7 +4,6 @@
 
 ***"A slightly schizophrenic, jupyter-centric stroll through some useful tricks I’ve picked up for better organizing my <strike>shit</strike> work and sharing with colleagues and the wider world."***
 
-<div align="right">JD Griffiths March 2018</div>
 
 Materials for my talk to University of Toronto Coders on python- and github-based tools for organizing and sharing code, data, and ideas. 
 
@@ -31,9 +30,11 @@ The first uses a combination of notebook parsing + cell tag filtering and nbconv
 
 The second major component of the scientific workflow discussed is how to turn the outputs of jupyter notebook cell tag filtering into slick github-hosted static html website and reveal.js html slideshows. I also discuss a few nice tricks like using amazon S3 buckets to host large media files.
 
-For more info, check out some LabNotebook entries (c.f. 'OpenAccess' tag), e.g. ['about the notebook'](https://johngriffiths.github.io/LabNotebook/about-the-notebook.html), ['about workdocs-cloudfiles'](https://johngriffiths.github.io/LabNotebook/about-workdocs-cloudfiles.html), and some notes on ['modelling brain stimulation'](https://johngriffiths.github.io/LabNotebook/replicating-spiegler2016.html) and [macaque brain visualization](https://johngriffiths.github.io/LabNotebook/macaque-brain-conmat-viz.html).
+For more info, check out some LabNotebook entries (c.f. 'OpenAccess' tag), e.g. [about the notebook](https://johngriffiths.github.io/LabNotebook/about-the-notebook.html), [about workdocs-cloudfiles](https://johngriffiths.github.io/LabNotebook/about-workdocs-cloudfiles.html), and some notes on [modelling brain stimulation](https://johngriffiths.github.io/LabNotebook/replicating-spiegler2016.html) and [macaque brain visualization](https://johngriffiths.github.io/LabNotebook/macaque-brain-conmat-viz.html).
 
 
-
+<div>
+<div>
+<div align="right">JG March 2018</div>
 
 
