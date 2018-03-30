@@ -12,7 +12,7 @@ Materials for my talk to University of Toronto Coders on python- and github-base
 
 ***Slideshow video:***
 
-[![ Reproducible Research Workflows and Hosting a Technical Blog](http://img.youtube.com/vi/dVGVBMb6kzo/0.jpg)](http://www.youtube.com/watch?v=dVGVBMb6kzo "Video Title")
+[![ Reproducible Research Workflows and Hosting a Technical Blog](http://img.youtube.com/vi/dVGVBMb6kzo/0.jpg)](https://youtu.be/dVGVBMb6kzo?t=63s "UofT Coders Talk")
 
 
 ***Demo Materials***
